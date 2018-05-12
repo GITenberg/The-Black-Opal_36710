@@ -1,0 +1,38 @@
+_repo: The-Black-Opal_36710
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Prichard, Katharine Susannah
+    aliases:
+    - Prichard, Katarina Susanna
+    - Throssell, Hugo, Mrs.
+    - Throssell, Mrs. Hugo
+    - Prichard, Katherine Susannah
+    birthdate: 1884
+    deathdate: 1969
+    gutenberg_agent_id: '37160'
+    url: http://www.gutenberg.org/2009/agents/37160
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Susannah_Prichard
+description: Cover; Title; Copyright; Contents; Part One; CHAPTER I; CHAPTER II; CHAPTER
+  III; CHAPTER IV; CHAPTER V; CHAPTER VI; CHAPTER VII; CHAPTER VIII; CHAPTER IX; CHAPTER
+  X; CHAPTER XI; CHAPTER XII; CHAPTER XIII; CHAPTER XIV; CHAPTER XV; CHAPTER XVI;
+  Part Two; CHAPTER I; CHAPTER II; CHAPTER III; CHAPTER IV; CHAPTER V; CHAPTER VI;
+  CHAPTER VII; CHAPTER VIII; CHAPTER IX; CHAPTER X; CHAPTER XI; CHAPTER XII; CHAPTER
+  XIII; CHAPTER XIV; CHAPTER XV; CHAPTER XVI; CHAPTER XVII; CHAPTER XVIII; CHAPTER
+  XIX;
+gutenberg_issued: '2011-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Opal mines and mining -- Australia -- Fiction'
+- !lcc 'PR'
+title: The Black Opal
+url: http://www.gutenberg.org/ebooks/36710
